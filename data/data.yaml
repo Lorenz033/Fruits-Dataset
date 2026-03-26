@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 7
+names: ['apple', 'banana', 'garlic', 'indian_mango', 'onion', 'orange', 'philippine_lime']
+
+roboflow:
+  workspace: grumpy
+  project: fruits-n35ij
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/grumpy/fruits-n35ij/dataset/5

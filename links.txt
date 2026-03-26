@@ -1,0 +1,12 @@
+Training Colab
+
+https://colab.research.google.com/drive/1WlW0NQW4qD-CTsFdNFkZaPi95vFW9F1g#scrollTo=gOHg4cjV7dbz
+
+PPT
+
+https://www.canva.com/design/DAG_ZWBSLtw/1PLQtemq62HfvRZpF9aq0Q/edit?utm_content=DAG_ZWBSLtw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+Roboflow 
+https://app.roboflow.com/join/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3b3Jrc3BhY2VJZCI6IlNxbDV6Y1htNk1YYUM5WEVieHpXWGl0aXM4dTEiLCJyb2xlIjoib3duZXIiLCJpbnZpdGVyIjoidHdpY2Vpc2xpZmVlQGdtYWlsLmNvbSIsImlhdCI6MTc3NDQ5MjMyOH0.4wE1ekDbD3u-Q1I6L9yQb6ReNkxAIjYRmrFHs76FgPA
+
